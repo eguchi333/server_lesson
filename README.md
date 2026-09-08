@@ -7,7 +7,5 @@
 - cp
 - mv
 - rm
-- >
-- >>
 - cat
 - vim
